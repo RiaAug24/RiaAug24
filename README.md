@@ -1,6 +1,8 @@
+<head></head>
+
 <h1 align="center">Hi 👋, I'm Riyaz Ahmed</h1>
 <h3 align="center">Front-end Developer</h3>
-<img align="right" src="/gif.gif" width="400" height="300" alt="Coding mode"/>
+<img align="center right" src="/gif.gif" width="450" height="450" alt="Coding mode"/>
 - 🌱 I’m currently learning: MERN Stack, Django, React Native & AWS
 
 - 💬 Ask me about: Web Development, Data Structures & Algorithms
