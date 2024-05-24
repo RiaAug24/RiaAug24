@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riyaz Ahmed</h1>
 <h3 align="center">Front-end Developer</h3>
-<img align="center" src="/gif.gif" width="400" height="300" alt="Coding mode"/>
+<img align="right" src="/gif.gif" width="400" height="300" alt="Coding mode"/>
 - 🌱 I’m currently learning: MERN Stack, Django, React Native & AWS
 
 - 💬 Ask me about: Web Development, Data Structures & Algorithms
@@ -8,6 +8,7 @@
 - 📫 How to reach? me riyaz24ahmed.aug2004@gmail.com
 
 - ⚡ Fun fact about me: Other than programming, I enjoy having my food & playing videogame.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,3 +24,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riaaug24&show_icons=true&locale=en&layout=compact" alt="riaaug24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riaaug24&" alt="riaaug24" /></p>
+<style>
+  a {
+    text-decoration: none;  
+  }
+</style>
