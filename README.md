@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋, This is Riyaz Ahmed!</h1>
+<h1 align="center">Hey there 👋, This is Riyaz Ahmed </h1>
 
 ###
 
