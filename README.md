@@ -1,6 +1,6 @@
 <h1 align="center">Hey there!👋 This is Riyaz Ahmed</h1>
 <h3 align="center">Zealous & Ambiguous Front-end Developer</h3>
-<img align="center right" src="/gif.gif" width="600" height="600" alt="Coding & Repeat Loop"/>
+<img margin="20px" align="center" src="/gif.gif" width="600" height="300" alt="Coding & Repeat Loop"/>
 
 - 🌱 I’m currently learning MERN Stack, Django, React Native & AWS
 
