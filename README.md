@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- 🌐I live at Manipal, Karnataka<br>- 🔭 I’m currently open to work as a Front-end Developer Intern<br>- 📚 I'm currently learning MERN, NextJs & AWS<br>- ⚡ In my free time, I enjoy reading articles about various technologies & real world affairs</p>
+<p align="left">- 🌐 I live at Manipal, Karnataka<br>- 🔭 I’m currently open to work as a Front-end Developer Intern<br>- 📚 I'm currently learning MERN, NextJs & AWS<br>- ⚡ In my free time, I enjoy reading articles about various technologies & real world affairs</p>
 
 ###
 
