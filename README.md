@@ -2,7 +2,7 @@
 
 <h1 align="left">Hey there 👋 What's up?</h1>
 
-<p align="left">🍀 I'm Riyaz Ahmed, currently in my 3rd year of Btech degree in Information Science at NMAM Institute of Technolgy, Nitte. 🎓</p>
+<p align="left">🍀 I'm Riyaz Ahmed, currently in my 3rd year of Btech degree in Information Science at NMAM Institute of Technolgy, Nitte.</p>
 </br>
 
 <div align="center">
