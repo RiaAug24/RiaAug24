@@ -4,8 +4,7 @@
 
 ###
 
-<p align="left">My name is Riyaz Ahmed. I'm currently in my 3rd year of BTech Degree in Information Science at NMAM Institute of Technolgy, Nitte.</p>
-
+<p align="left">I'm Riyaz Ahmed, Pre-Final year Information Science student at NMAM Institute of Technolgy, Nitte.</p>
 ###
 
 <div align="center">
