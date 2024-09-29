@@ -2,8 +2,11 @@
 
 <h1 align="left">Hey there 👋 What's up?</h1>
 
-<p align="left">🍀 I'm Riyaz Ahmed, Pre Final year Information Science student at NMAM Institute of Technolgy, Nitte.</p>
-</br>
+###
+
+<p align="left">🍀 I'm Riyaz Ahmed, Pre Final year Information Science student at NMAM Institute of Technology, Nitte.</p>
+
+###
 
 <div align="center">
   <img height="200" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc2MzE3NDQsIm5iZiI6MTcyNzYzMTQ0NCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI5VDE3MzcyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE5N2IyMzcwOGE4ZmY0ZjdjYTQxZDBmOTE2YjdlMjFiNWE5YjkzOTUyZTkyNzc3MGM0OTc3YTA1YWUxYjc3ZDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xWQi3h6i-dGM5rc4DuiBEqLzP4nPPBSR9K7zcnDyO_8"  />
@@ -26,6 +29,8 @@
 <br clear="both">
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
