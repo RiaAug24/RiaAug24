@@ -37,7 +37,7 @@
 
 ###
 
-<h2 align="left">🚀 Tech Stack I play with:</h2>
+<h2 align="left">🚀 Things I like to play with:</h2>
 
 ###
 
