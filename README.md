@@ -4,12 +4,12 @@
 
 ###
 
-<p align="left">🍀 I'm Riyaz Ahmed, Pre-final year Information Science student at NMAM Institute of Technology, Nitte. <br> If you love technology & like developing cool new stuffs, be my guest to buddy up with me 😉</p>
+<p align="left">🍀 I'm Riyaz Ahmed, Pre-final year Information Science student at NMAM Institute of Technology, Nitte.<br>🎯 If you love technology & like developing cool new stuffs, be my guest to buddy up with me 😉</p>
 
 ###
 
 <div align="center">
-  <img width="400" height="300" src="coding-guy-chilling-with-music.gif"/>
+  <img height="200" src="coding-guy-chilling-with-music.gif"  />
 </div>
 
 ###
