@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img width="400" height="350" src="coding-guy-chilling-with-music.gif"  />
+  <img width="390" height="330" src="coding-guy-chilling-with-music.gif"  />
 </div>
 
 ###
