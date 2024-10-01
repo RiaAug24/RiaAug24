@@ -1,10 +1,10 @@
 <br clear="both">
 
-<h1 align="left">Hey there 👋 people!</h1>
+<h1 align="left">Hey there 👋 What's up?</h1>
 
 ###
 
-<p align="left">🍀 I'm Riyaz Ahmed, Pre-final year Information Science student at NMAM Institute of Technology, Nitte.<br>🎯 If you love technology & like developing cool new stuffs, then we can be friends. 😉</p>
+<p align="left">🍀 I'm Riyaz Ahmed, Pre-final year Information Science student at NMAM Institute of Technology, Nitte.<br>🎯 If you love technology & like developing cool new stuffs, be my guest to buddy up with me 😉</p>
 
 ###
 
@@ -32,6 +32,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
   <img width="12" />
