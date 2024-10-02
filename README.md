@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">🍀 I'm Riyaz Ahmed, Pre-final year Information Science student at NMAM Institute of Technology, Nitte.<br>🎯 If you love technology & like developing cool new stuffs, then we can be friends 😉.</p>
+<p align="left">🍀 I'm Riyaz Ahmed, Pre-final year Information Science student at NMAM Institute of Technology, Nitte.<br>🎯 If you love technology & like developing cool new stuffs, then we can be friends. 😉</p>
 
 ###
 
