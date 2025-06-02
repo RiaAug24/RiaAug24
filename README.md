@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="200" src="coding-guy-chilling-with-music.gif"  />
+</div>
+
+
 # 💫 About Me:
 👋🏻 Hey there! What's up?<br>🍀 I'm Riyaz Ahmed, a final year ISE student @NMAMIT 🎓. <br>🌐 I live at Manipal, Karnataka.<br>🧑🏻‍💻 I'm found of building robust, scalable Web Applications .<br>🔭 I'm currently exploring Deep Learning and Neural Networks<br>⚡At my causal hours, I enjoy reading tech articles, newsletters & play video games 🎮.<br>🤝 For collaboration, hit me on my social media hurdles.<br> 
 
