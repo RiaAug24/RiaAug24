@@ -3,7 +3,7 @@
   <img height="200" src="coding-guy-chilling-with-music.gif"  />
 </div>
 
-
+<div align="center">
 # 💫 About Me:
 🍀 I'm Riyaz Ahmed, a final year ISE student @NMAMIT 🎓. <br>🌐 I live at Manipal, Karnataka.<br>🧑🏻‍💻 I'm found of building robust, scalable Web Applications.<br>🔭 I'm currently exploring Deep Learning and Neural Networks<br>⚡At my causal hours, I enjoy reading tech articles, newsletters & play video games 🎮.<br>🤝 For collaboration, hit me on my social media hurdles.<br> 
 
@@ -20,5 +20,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
