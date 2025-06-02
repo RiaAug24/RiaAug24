@@ -7,7 +7,7 @@
 ## 💫 About Me:
 🍀 I'm Riyaz Ahmed, a final year ISE student @NMAMIT 🎓. <br>🌐 I live at Manipal, Karnataka.<br>🧑🏻‍💻 I'm found of building robust, scalable Web Applications.<br>🔭 I'm currently exploring Deep Learning and Neural Networks<br>⚡At my causal hours, I enjoy reading tech articles, newsletters & play video games 🎮.<br>🤝 For collaboration, hit me on my social media hurdles.<br> 
 
-<div align="center">
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ria_yz24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riyaz-ahmed24) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26308036) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riyaz248.ahmed24@gmail.com) 
 
