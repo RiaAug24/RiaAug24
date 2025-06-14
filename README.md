@@ -4,7 +4,7 @@
 </div>
 
 # 💫 About Me:
-🍀 I'm Riyaz Ahmed, a final year ISE student @NMAMIT 🎓<br>🌐 I live at Manipal, Karnataka.<br>🧑🏻‍💻 I'm found of building robust and scalable web applications.<br>🔭 I'm currently exploring Deep Learning and ANNs.<br>⚡At my causal hours, I enjoy reading tech articles, newsletters & play video games 🎮.<br>🤝 For collaboration, hit me on my social media hurdles.
+🍀 I'm Riyaz Ahmed, a final year ISE student @NMAMIT 🎓<br>🌐 I live at Manipal, Karnataka.<br>🧑🏻‍💻 I'm found of building robust and scalable web applications.<br>🔭 I'm currently exploring Deep Learning and ANNs.<br>⚡At my causal hours, I enjoy reading tech articles, newsletters & play video games 🎮.<br>🤝 For collaboration, hit me on my social media handles.
 
 
 ## 🌐 Socials:
